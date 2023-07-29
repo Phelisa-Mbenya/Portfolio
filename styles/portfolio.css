@@ -1,10 +1,24 @@
 body {
-  background-color: aqua;
+  background-color: rgb(255, 0, 234);
 }
 h1,
 h3 {
   text-align: center;
+  color: black;
+  font-family: "Playfair Display" serif;
+  font-weight: bold;
 }
 p {
   text-align: center;
+  font-family: "Poppins" sans-serif;
+  font-weight: bold;
+  margin: 0;
+  line-height: 2;
+}
+.btn-branding {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding: 12px 20px;
+  background-color: blue;
 }

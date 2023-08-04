@@ -1,6 +1,12 @@
 body {
   background-color: rgb(200, 195, 200);
 }
+@media (max-width: 900px) {
+  h1 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+}
 h1,
 h2,
 h3 {
@@ -44,4 +50,11 @@ p {
 .about-section h3 {
   font-size: 18px;
   font: optional;
+}
+.about-section {
+  padding: 0;
+  text-align: center;
+}
+.about-section-content {
+  margin: 30px;
 }

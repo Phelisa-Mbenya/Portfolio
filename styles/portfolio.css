@@ -37,3 +37,11 @@ p {
   text-align: center;
   margin: auto;
 }
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h3 {
+  font-size: 18px;
+  font: optional;
+}

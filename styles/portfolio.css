@@ -58,6 +58,15 @@ p {
 .about-section-content {
   margin: 30px;
 }
+footer.social-links a {
+  margin: 0 20px;
+}
+footer.email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  text-align: center;
+}
 .content h1 {
   font-size: 64px;
   line-height: 80px;

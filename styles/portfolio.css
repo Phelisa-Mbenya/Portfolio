@@ -16,6 +16,9 @@ h3 {
   font-weight: bold;
   font: size 64px;
 }
+h4 {
+  font-size: 48px;
+}
 p {
   text-align: center;
   font-family: "Poppins" sans-serif;
@@ -60,6 +63,11 @@ p {
 }
 footer.social-links a {
   margin: 0 20px;
+}
+footer .contact-box {
+  background: var(---secondary-color);
+  padding: 30px 120px;
+  border-radius: 10px;
 }
 footer.email-link {
   text-decoration: none;

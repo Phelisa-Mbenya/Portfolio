@@ -58,3 +58,16 @@ p {
 .about-section-content {
   margin: 30px;
 }
+.content h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.content p {
+  font-size: 14px;
+  margin: 0;
+}
+.content h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 20px 0 0;
+}
